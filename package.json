@@ -1,0 +1,17 @@
+{
+  "name": "crunchyroll-anime-lookup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "puppeteer": "^10.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "nodemon": "^2.0.12"
+  }
+}
